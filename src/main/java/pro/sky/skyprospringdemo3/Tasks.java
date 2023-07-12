@@ -24,6 +24,7 @@ public class Tasks {
             }
         }
     }
+
     public static void task3(List<String>strings){
         System.out.println(new TreeSet<>(strings));
     }
